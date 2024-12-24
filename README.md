@@ -12,13 +12,13 @@ The presentation is aimed at a diverse jury with varied professional backgrounds
 
 # Trends Marketplace: Optimizing Data Analysis with Optuna and Python
 
-#Hypothesis
+# Hypothesis
 Our project investigates the hypothesis:
 
 "Optuna optimizes hyperparameters for predictive modeling on customer segmentation data, improving classification accuracy while reducing computational overhead."
 
 # Approach
-Step 1: Define Business Value
+## Step 1: Define Business Value
 
 Identify the Problem:
 
@@ -30,7 +30,7 @@ Efficient hyperparameter optimization enhances model accuracy, reduces computati
 
 Example: Retail businesses optimizing inventory forecasting models or financial institutions fine-tuning risk prediction algorithms.
 
-Step 2: Data Analysis
+## Step 2: Data Analysis
 
 Data Extraction:
 
@@ -48,7 +48,7 @@ Integration of SQL-based data pipelines with Python analysis workflows.
 
 Fine-tuning Optuna trials to achieve a balance between computational efficiency and optimal results.
 
-Step 3: Solution Development
+## Step 3: Solution Development
 
 Baseline vs. Optimized Parameters:
 
