@@ -2,11 +2,11 @@
 
 # Introduction
 
-Objective
+Objective:
 
 This open project challenges students to address a real-world problem with business value using niche libraries or advanced technologies. Students must identify gaps in existing solutions and propose approaches to mitigate or resolve the issue.
 
-Target Audience
+Target Audience:
 
 The presentation is aimed at a diverse jury with varied professional backgrounds, emphasizing clarity, innovation, and practical application.
 
